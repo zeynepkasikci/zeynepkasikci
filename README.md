@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @zeynepkasikci
-- 👀 I’m interested in bioinformatics, AI , cyber security
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in bioinformatics, AI , cyber security.
+- 📫 I have learned Python.
+- 🌱 I’m currently learning C.
+
 
 <!---
 zeynepkasikci/zeynepkasikci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
